@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666872669 source:c:\users\temp\documents\papapa\nalekcji\main.cpp
+	<iostream>
+	"rororor.h"
+
+1666872636 source:c:\users\temp\documents\papapa\nalekcji\popo.cpp
+	<math.h>
+
+1666872625 c:\users\temp\documents\papapa\nalekcji\rororor.h
+
